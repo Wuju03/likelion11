@@ -1,0 +1,28 @@
+#First img{
+    border-radius: 30px;
+    height: 300px;
+    width: 600px;
+}
+
+#End{
+    position: relative;
+    background-color: black;
+    border-radius: 30px;
+    height: 300px;
+    width: 600px;
+    color: white;
+}
+#End img{
+    position: absolute;
+    right: 20px;
+    bottom: 60px;
+    height: 150px;
+    width: 200px;
+}
+
+/*
+#End{
+    position: absolute;
+    
+}
+*/
